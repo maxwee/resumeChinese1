@@ -15,5 +15,7 @@ This template is based off of one originally created by [Nicolas Favre-Felix](ht
 
 Roy Keyes
 
-基于Roy Keyes的英文版本尝试使用中文进行修改, 使用2015mactex在mac上正常运行, 并添加simplemargins.sty文件.
-仅供学习使用, 请勿商用!
+基于Roy Keyes的英文版本尝试使用中文进行修改, 使用2015mactex在mac上正常运行, 并添加simplemargins.sty文件, 编译工具为xelatex.
+仅供学习使用, 请勿商用! 简历内容虚构, 如有雷同, 纯属巧合.
+
+tianwenhao
